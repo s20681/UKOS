@@ -1,0 +1,2 @@
+To jest mój plik tekstowy.
+Można tutaj coś jeszcze dopisać.
